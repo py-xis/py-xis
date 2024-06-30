@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **py-xis/py-xis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Pranav Kulkarni</h1>
+<h1 align="center">Hi there 👋, I'm Pranav Kulkarni</h1>
 <h3 align="center">Machine Learning Enthusiast | Problem - Solver | Builder at IIIT-B</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=py-xis&label=Profile%20views&color=0e75b6&style=flat" alt="py-xis" /> </p>

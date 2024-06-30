@@ -93,23 +93,23 @@ Here are some ideas to get you started:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/pranav-kulkarni-867714255" target="blank">
+  <a href="https://linkedin.com/in/pranav-kulkarni-867714255" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-kulkarni-867714255" height="30" width="40" />
   </a>
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://kaggle.com/pranavakulkarni" target="blank">
+  <a href="https://kaggle.com/pranavakulkarni" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranavakulkarni" height="30" width="40" />
   </a>
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://www.codechef.com/users/pranav_2022" target="blank">
+  <a href="https://www.codechef.com/users/pranav_2022" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranav_2022" height="30" width="40" />
   </a>
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://codeforces.com/profile/intercode_2023" target="blank">
+  <a href="https://codeforces.com/profile/intercode_2023" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="intercode_2023" height="30" width="40" />
   </a>
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://www.leetcode.com/kulkarnipranav500" target="blank">
+  <a href="https://www.leetcode.com/kulkarnipranav500" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kulkarnipranav500" height="30" width="40" />
   </a>
 </p>

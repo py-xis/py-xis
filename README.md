@@ -34,8 +34,14 @@ Here are some ideas to get you started:
   - Implemented concurrency using socket programming and mutual exclusion with threads, leveraging concepts from operating systems.
 
 - **LineAL**
+  - Tech Stack : Flutter
   - Created an Android application capable of performing a wide range of computations related to linear algebra.
   - Technologies Used: Flutter.
+ 
+- **Photo Editor**
+  - Tech Stack : Java, C++.
+  -  Developed a high-performance photo editor application in C++ and Java, utilizing Object-Oriented Programming (OOP) principles.Implemented diverse features such as Gaussian Blur, grayscale conversion,             dominant color detection, and image brightening.
+  
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">

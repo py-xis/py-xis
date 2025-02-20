@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">Some of my projects.</h3>
 
+<h4>Development Related</h4>
+
+- **Ditto - A Cross Platform Shared Clipboard System**
+  - 
+
 - **Online Library Management System**
   - Implemented an online library management system in C.
   - Implemented concurrency using socket programming and mutual exclusion with threads, leveraging concepts from operating systems.

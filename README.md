@@ -21,9 +21,9 @@
 
 ---
 
----
-
 <h3 align="center">🛠 Projects</h3>
+
+<h4>🔧 Related to Software Development</h4>
 
 - **[ReSolve](https://github.com/py-xis/ReSolve.git)**  
   A platform to track unsolved problems from Codeforces, LeetCode, and AtCoder to assist in interview prep.  

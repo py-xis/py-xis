@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Header](./header.png)
+![Header](./github-header-image.png)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=py-xis&label=Profile%20views&color=0e75b6&style=flat" alt="py-xis" />

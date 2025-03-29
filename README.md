@@ -34,9 +34,7 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" height="30"/>
-</p>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" height="30"/></p>
 
 ---
 

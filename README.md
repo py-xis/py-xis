@@ -8,10 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=py-xis&label=Profile%20views&color=0e75b6&style=flat" alt="py-xis" />
 </p>
 
-### 🌱 I’m currently learning **Computer Vision** and sharpening my skills in **Go Programming Language**  
-
-- 👨‍💻 You can check out all my work here on <a href="https://github.com/py-xis">GitHub</a>  
-- 📫 Reach out to me via <a href="https://linkedin.com/in/pranav-kulkarni-867714255">LinkedIn</a> or through email at <a href="mailto:Pranav.Kulkarni@iiitb.ac.in">Pranav.Kulkarni@iiitb.ac.in</a>
+I'm a Computer Science student at the **International Institute of Information Technology, Bangalore**, drawn to the space where systems engineering meets machine learning. I enjoy building distributed systems and deployment infrastructure as much as I enjoy training and fine-tuning generative models — and I'm happiest on projects that let me do a bit of both.
 
 ---
 
@@ -34,13 +31,20 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" height="30"/></p>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white" height="30"/></p>
 
 ---
 
 <h2 align="center">🛠 Projects</h2>
 
 <h3>🔧 Related to Software Development</h3>
+
+- **[GoPloy](https://github.com/py-xis/GoPloy)**  
+  A self-serve deployment platform for React apps — clones, builds, and serves a live site behind a custom subdomain from just a GitHub URL, with real-time build-log streaming.  
+  Built with: Go, Docker, WebSockets
 
 - **[ReSolve](https://github.com/py-xis/ReSolve.git)**  
   A platform to track unsolved problems from Codeforces, LeetCode, and AtCoder to assist in interview prep.  
@@ -58,3 +62,14 @@
   Menu-driven interactive school database manager handling students, teachers, and courses via JDBC.  
   Built with: Java, MySQL
 
+<h3>☁️ MLOps / DevOps</h3>
+
+- **[FlowGuard](https://github.com/py-xis/FlowGuard)**  
+  An end-to-end MLOps pipeline for a spam-classification model — Jenkins-triggered CI/CD into a self-healing Kubernetes deployment, with Prometheus metrics and ELK-based logging for real-time observability.  
+  Built with: Python, Docker, Kubernetes, Jenkins, Prometheus, ELK Stack
+
+<h3>🧠 Machine Learning / Computer Vision</h3>
+
+- **[VisCommerce](https://github.com/py-xis/Viscommerce)**  
+  A Visual Question Answering system for e-commerce — curated a 93,000-pair dataset from Amazon product listings and fine-tuned BLIP and PaliGemma with LoRA, reaching 76.3% accuracy and 0.89 semantic similarity.  
+  Built with: Python, PyTorch, LoRA
